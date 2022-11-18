@@ -39,7 +39,7 @@ América do Sul,4,Venezuela,238,Bahia,5,Aérea,1,2019,janeiro,1,14
 Ásia,5,Arábia Saudita,9,Bahia,5,Aérea,1,2019,janeiro,1,0
 Ásia,5,Bangladesh,18,Bahia,5,Aérea,1,2019,janeiro,1,0
 Ásia,5,China,43,Bahia,5,Aérea,1,2019,janeiro,1,1
-Ásia,5,China Hong Kong,44,Bahia,5,,1,2019,janeiro,1,0
+Ásia,5,China Hong Kong,44,Bahia,5,Aérea,1,2019,janeiro,1,0
 Ásia,5,Cingapura,47,Bahia,5,Aérea,1,2019,janeiro,1,0
 Ásia,5,Filipinas,72,Bahia,5,Aérea,1,2019,janeiro,1,2
 Ásia,5,Índia,113,Bahia,5,Aérea,1,2019,janeiro,1,2
@@ -132,7 +132,7 @@ América do Sul,4,Venezuela,238,Bahia,5,Aérea,1,2019,fevereiro,2,16
 Ásia,5,Arábia Saudita,9,Bahia,5,Aérea,1,2019,fevereiro,2,0
 Ásia,5,Bangladesh,18,Bahia,5,Aérea,1,2019,fevereiro,2,0
 Ásia,5,China,43,Bahia,5,Aérea,1,2019,fevereiro,2,2
-Ásia,5,China Hong Kong,44,Bahia,5,,1,2019,fevereiro,2,1
+Ásia,5,China Hong Kong,44,Bahia,5,Aérea,1,2019,fevereiro,2,1
 Ásia,5,Cingapura,47,Bahia,5,Aérea,1,2019,fevereiro,2,0
 Ásia,5,Filipinas,72,Bahia,5,Aérea,1,2019,fevereiro,2,0
 Ásia,5,Índia,113,Bahia,5,Aérea,1,2019,fevereiro,2,4
@@ -225,7 +225,7 @@ América do Sul,4,Venezuela,238,Bahia,5,Aérea,1,2019,março,3,13
 Ásia,5,Arábia Saudita,9,Bahia,5,Aérea,1,2019,março,3,2
 Ásia,5,Bangladesh,18,Bahia,5,Aérea,1,2019,março,3,0
 Ásia,5,China,43,Bahia,5,Aérea,1,2019,março,3,1
-Ásia,5,China Hong Kong,44,Bahia,5,,1,2019,março,3,0
+Ásia,5,China Hong Kong,44,Bahia,5,Aérea,1,2019,março,3,0
 Ásia,5,Cingapura,47,Bahia,5,Aérea,1,2019,março,3,0
 Ásia,5,Filipinas,72,Bahia,5,Aérea,1,2019,março,3,0
 Ásia,5,Índia,113,Bahia,5,Aérea,1,2019,março,3,2
@@ -318,7 +318,7 @@ América do Sul,4,Venezuela,238,Bahia,5,Aérea,1,2019,abril,4,6
 Ásia,5,Arábia Saudita,9,Bahia,5,Aérea,1,2019,abril,4,0
 Ásia,5,Bangladesh,18,Bahia,5,Aérea,1,2019,abril,4,0
 Ásia,5,China,43,Bahia,5,Aérea,1,2019,abril,4,4
-Ásia,5,China Hong Kong,44,Bahia,5,,1,2019,abril,4,1
+Ásia,5,China Hong Kong,44,Bahia,5,Aérea,1,2019,abril,4,1
 Ásia,5,Cingapura,47,Bahia,5,Aérea,1,2019,abril,4,0
 Ásia,5,Filipinas,72,Bahia,5,Aérea,1,2019,abril,4,1
 Ásia,5,Índia,113,Bahia,5,Aérea,1,2019,abril,4,3
@@ -411,7 +411,7 @@ América do Sul,4,Venezuela,238,Bahia,5,Aérea,1,2019,maio,5,8
 Ásia,5,Arábia Saudita,9,Bahia,5,Aérea,1,2019,maio,5,0
 Ásia,5,Bangladesh,18,Bahia,5,Aérea,1,2019,maio,5,0
 Ásia,5,China,43,Bahia,5,Aérea,1,2019,maio,5,0
-Ásia,5,China Hong Kong,44,Bahia,5,,1,2019,maio,5,0
+Ásia,5,China Hong Kong,44,Bahia,5,Aérea,1,2019,maio,5,0
 Ásia,5,Cingapura,47,Bahia,5,Aérea,1,2019,maio,5,0
 Ásia,5,Filipinas,72,Bahia,5,Aérea,1,2019,maio,5,1
 Ásia,5,Índia,113,Bahia,5,Aérea,1,2019,maio,5,1
@@ -504,7 +504,7 @@ América do Sul,4,Venezuela,238,Bahia,5,Aérea,1,2019,junho,6,13
 Ásia,5,Arábia Saudita,9,Bahia,5,Aérea,1,2019,junho,6,0
 Ásia,5,Bangladesh,18,Bahia,5,Aérea,1,2019,junho,6,0
 Ásia,5,China,43,Bahia,5,Aérea,1,2019,junho,6,0
-Ásia,5,China Hong Kong,44,Bahia,5,,1,2019,junho,6,0
+Ásia,5,China Hong Kong,44,Bahia,5,Aérea,1,2019,junho,6,0
 Ásia,5,Cingapura,47,Bahia,5,Aérea,1,2019,junho,6,0
 Ásia,5,Filipinas,72,Bahia,5,Aérea,1,2019,junho,6,0
 Ásia,5,Índia,113,Bahia,5,Aérea,1,2019,junho,6,0
@@ -597,7 +597,7 @@ América do Sul,4,Venezuela,238,Bahia,5,Aérea,1,2019,julho,7,5
 Ásia,5,Arábia Saudita,9,Bahia,5,Aérea,1,2019,julho,7,0
 Ásia,5,Bangladesh,18,Bahia,5,Aérea,1,2019,julho,7,0
 Ásia,5,China,43,Bahia,5,Aérea,1,2019,julho,7,1
-Ásia,5,China Hong Kong,44,Bahia,5,,1,2019,julho,7,0
+Ásia,5,China Hong Kong,44,Bahia,5,Aérea,1,2019,julho,7,0
 Ásia,5,Cingapura,47,Bahia,5,Aérea,1,2019,julho,7,0
 Ásia,5,Filipinas,72,Bahia,5,Aérea,1,2019,julho,7,3
 Ásia,5,Índia,113,Bahia,5,Aérea,1,2019,julho,7,2
@@ -690,7 +690,7 @@ América do Sul,4,Venezuela,238,Bahia,5,Aérea,1,2019,agosto,8,6
 Ásia,5,Arábia Saudita,9,Bahia,5,Aérea,1,2019,agosto,8,0
 Ásia,5,Bangladesh,18,Bahia,5,Aérea,1,2019,agosto,8,0
 Ásia,5,China,43,Bahia,5,Aérea,1,2019,agosto,8,2
-Ásia,5,China Hong Kong,44,Bahia,5,,1,2019,agosto,8,0
+Ásia,5,China Hong Kong,44,Bahia,5,Aérea,1,2019,agosto,8,0
 Ásia,5,Cingapura,47,Bahia,5,Aérea,1,2019,agosto,8,0
 Ásia,5,Filipinas,72,Bahia,5,Aérea,1,2019,agosto,8,2
 Ásia,5,Índia,113,Bahia,5,Aérea,1,2019,agosto,8,6
@@ -783,7 +783,7 @@ América do Sul,4,Venezuela,238,Bahia,5,Aérea,1,2019,setembro,9,17
 Ásia,5,Arábia Saudita,9,Bahia,5,Aérea,1,2019,setembro,9,0
 Ásia,5,Bangladesh,18,Bahia,5,Aérea,1,2019,setembro,9,0
 Ásia,5,China,43,Bahia,5,Aérea,1,2019,setembro,9,1
-Ásia,5,China Hong Kong,44,Bahia,5,,1,2019,setembro,9,0
+Ásia,5,China Hong Kong,44,Bahia,5,Aérea,1,2019,setembro,9,0
 Ásia,5,Cingapura,47,Bahia,5,Aérea,1,2019,setembro,9,0
 Ásia,5,Filipinas,72,Bahia,5,Aérea,1,2019,setembro,9,0
 Ásia,5,Índia,113,Bahia,5,Aérea,1,2019,setembro,9,0
@@ -876,7 +876,7 @@ América do Sul,4,Venezuela,238,Bahia,5,Aérea,1,2019,outubro,10,9
 Ásia,5,Arábia Saudita,9,Bahia,5,Aérea,1,2019,outubro,10,0
 Ásia,5,Bangladesh,18,Bahia,5,Aérea,1,2019,outubro,10,0
 Ásia,5,China,43,Bahia,5,Aérea,1,2019,outubro,10,1
-Ásia,5,China Hong Kong,44,Bahia,5,,1,2019,outubro,10,1
+Ásia,5,China Hong Kong,44,Bahia,5,Aérea,1,2019,outubro,10,1
 Ásia,5,Cingapura,47,Bahia,5,Aérea,1,2019,outubro,10,0
 Ásia,5,Filipinas,72,Bahia,5,Aérea,1,2019,outubro,10,0
 Ásia,5,Índia,113,Bahia,5,Aérea,1,2019,outubro,10,1
@@ -969,7 +969,7 @@ América do Sul,4,Venezuela,238,Bahia,5,Aérea,1,2019,novembro,11,13
 Ásia,5,Arábia Saudita,9,Bahia,5,Aérea,1,2019,novembro,11,0
 Ásia,5,Bangladesh,18,Bahia,5,Aérea,1,2019,novembro,11,0
 Ásia,5,China,43,Bahia,5,Aérea,1,2019,novembro,11,3
-Ásia,5,China Hong Kong,44,Bahia,5,,1,2019,novembro,11,1
+Ásia,5,China Hong Kong,44,Bahia,5,Aérea,1,2019,novembro,11,1
 Ásia,5,Cingapura,47,Bahia,5,Aérea,1,2019,novembro,11,1
 Ásia,5,Filipinas,72,Bahia,5,Aérea,1,2019,novembro,11,0
 Ásia,5,Índia,113,Bahia,5,Aérea,1,2019,novembro,11,1
@@ -1062,7 +1062,7 @@ América do Sul,4,Venezuela,238,Bahia,5,Aérea,1,2019,dezembro,12,25
 Ásia,5,Arábia Saudita,9,Bahia,5,Aérea,1,2019,dezembro,12,0
 Ásia,5,Bangladesh,18,Bahia,5,Aérea,1,2019,dezembro,12,0
 Ásia,5,China,43,Bahia,5,Aérea,1,2019,dezembro,12,0
-Ásia,5,China Hong Kong,44,Bahia,5,,1,2019,dezembro,12,0
+Ásia,5,China Hong Kong,44,Bahia,5,Aérea,1,2019,dezembro,12,0
 Ásia,5,Cingapura,47,Bahia,5,Aérea,1,2019,dezembro,12,0
 Ásia,5,Filipinas,72,Bahia,5,Aérea,1,2019,dezembro,12,2
 Ásia,5,Índia,113,Bahia,5,Aérea,1,2019,dezembro,12,0
@@ -2271,7 +2271,7 @@ América do Sul,4,Venezuela,238,Ceará,5,Aérea,1,2019,janeiro,1,9
 Ásia,5,Arábia Saudita,9,Ceará,5,Aérea,1,2019,janeiro,1,0
 Ásia,5,Bangladesh,18,Ceará,5,Aérea,1,2019,janeiro,1,0
 Ásia,5,China,43,Ceará,5,Aérea,1,2019,janeiro,1,7
-Ásia,5,China Hong Kong,44,Ceará,5,,1,2019,janeiro,1,0
+Ásia,5,China Hong Kong,44,Ceará,5,Aérea,1,2019,janeiro,1,0
 Ásia,5,Cingapura,47,Ceará,5,Aérea,1,2019,janeiro,1,0
 Ásia,5,Filipinas,72,Ceará,5,Aérea,1,2019,janeiro,1,1
 Ásia,5,Índia,113,Ceará,5,Aérea,1,2019,janeiro,1,3
@@ -2364,7 +2364,7 @@ América do Sul,4,Venezuela,238,Ceará,5,Aérea,1,2019,fevereiro,2,8
 Ásia,5,Arábia Saudita,9,Ceará,5,Aérea,1,2019,fevereiro,2,0
 Ásia,5,Bangladesh,18,Ceará,5,Aérea,1,2019,fevereiro,2,0
 Ásia,5,China,43,Ceará,5,Aérea,1,2019,fevereiro,2,4
-Ásia,5,China Hong Kong,44,Ceará,5,,1,2019,fevereiro,2,0
+Ásia,5,China Hong Kong,44,Ceará,5,Aérea,1,2019,fevereiro,2,0
 Ásia,5,Cingapura,47,Ceará,5,Aérea,1,2019,fevereiro,2,0
 Ásia,5,Filipinas,72,Ceará,5,Aérea,1,2019,fevereiro,2,1
 Ásia,5,Índia,113,Ceará,5,Aérea,1,2019,fevereiro,2,2
@@ -2457,7 +2457,7 @@ América do Sul,4,Venezuela,238,Ceará,5,Aérea,1,2019,março,3,10
 Ásia,5,Arábia Saudita,9,Ceará,5,Aérea,1,2019,março,3,0
 Ásia,5,Bangladesh,18,Ceará,5,Aérea,1,2019,março,3,0
 Ásia,5,China,43,Ceará,5,Aérea,1,2019,março,3,14
-Ásia,5,China Hong Kong,44,Ceará,5,,1,2019,março,3,0
+Ásia,5,China Hong Kong,44,Ceará,5,Aérea,1,2019,março,3,0
 Ásia,5,Cingapura,47,Ceará,5,Aérea,1,2019,março,3,0
 Ásia,5,Filipinas,72,Ceará,5,Aérea,1,2019,março,3,2
 Ásia,5,Índia,113,Ceará,5,Aérea,1,2019,março,3,12
@@ -2550,7 +2550,7 @@ América do Sul,4,Venezuela,238,Ceará,5,Aérea,1,2019,abril,4,8
 Ásia,5,Arábia Saudita,9,Ceará,5,Aérea,1,2019,abril,4,0
 Ásia,5,Bangladesh,18,Ceará,5,Aérea,1,2019,abril,4,0
 Ásia,5,China,43,Ceará,5,Aérea,1,2019,abril,4,7
-Ásia,5,China Hong Kong,44,Ceará,5,,1,2019,abril,4,0
+Ásia,5,China Hong Kong,44,Ceará,5,Aérea,1,2019,abril,4,0
 Ásia,5,Cingapura,47,Ceará,5,Aérea,1,2019,abril,4,0
 Ásia,5,Filipinas,72,Ceará,5,Aérea,1,2019,abril,4,3
 Ásia,5,Índia,113,Ceará,5,Aérea,1,2019,abril,4,4
@@ -2643,7 +2643,7 @@ América do Sul,4,Venezuela,238,Ceará,5,Aérea,1,2019,maio,5,8
 Ásia,5,Arábia Saudita,9,Ceará,5,Aérea,1,2019,maio,5,0
 Ásia,5,Bangladesh,18,Ceará,5,Aérea,1,2019,maio,5,0
 Ásia,5,China,43,Ceará,5,Aérea,1,2019,maio,5,8
-Ásia,5,China Hong Kong,44,Ceará,5,,1,2019,maio,5,0
+Ásia,5,China Hong Kong,44,Ceará,5,Aérea,1,2019,maio,5,0
 Ásia,5,Cingapura,47,Ceará,5,Aérea,1,2019,maio,5,0
 Ásia,5,Filipinas,72,Ceará,5,Aérea,1,2019,maio,5,3
 Ásia,5,Índia,113,Ceará,5,Aérea,1,2019,maio,5,6
@@ -2736,7 +2736,7 @@ América do Sul,4,Venezuela,238,Ceará,5,Aérea,1,2019,junho,6,9
 Ásia,5,Arábia Saudita,9,Ceará,5,Aérea,1,2019,junho,6,1
 Ásia,5,Bangladesh,18,Ceará,5,Aérea,1,2019,junho,6,0
 Ásia,5,China,43,Ceará,5,Aérea,1,2019,junho,6,10
-Ásia,5,China Hong Kong,44,Ceará,5,,1,2019,junho,6,1
+Ásia,5,China Hong Kong,44,Ceará,5,Aérea,1,2019,junho,6,1
 Ásia,5,Cingapura,47,Ceará,5,Aérea,1,2019,junho,6,1
 Ásia,5,Filipinas,72,Ceará,5,Aérea,1,2019,junho,6,4
 Ásia,5,Índia,113,Ceará,5,Aérea,1,2019,junho,6,16
@@ -2829,7 +2829,7 @@ América do Sul,4,Venezuela,238,Ceará,5,Aérea,1,2019,julho,7,7
 Ásia,5,Arábia Saudita,9,Ceará,5,Aérea,1,2019,julho,7,1
 Ásia,5,Bangladesh,18,Ceará,5,Aérea,1,2019,julho,7,0
 Ásia,5,China,43,Ceará,5,Aérea,1,2019,julho,7,8
-Ásia,5,China Hong Kong,44,Ceará,5,,1,2019,julho,7,2
+Ásia,5,China Hong Kong,44,Ceará,5,Aérea,1,2019,julho,7,2
 Ásia,5,Cingapura,47,Ceará,5,Aérea,1,2019,julho,7,0
 Ásia,5,Filipinas,72,Ceará,5,Aérea,1,2019,julho,7,3
 Ásia,5,Índia,113,Ceará,5,Aérea,1,2019,julho,7,4
@@ -2922,7 +2922,7 @@ América do Sul,4,Venezuela,238,Ceará,5,Aérea,1,2019,agosto,8,8
 Ásia,5,Arábia Saudita,9,Ceará,5,Aérea,1,2019,agosto,8,0
 Ásia,5,Bangladesh,18,Ceará,5,Aérea,1,2019,agosto,8,0
 Ásia,5,China,43,Ceará,5,Aérea,1,2019,agosto,8,15
-Ásia,5,China Hong Kong,44,Ceará,5,,1,2019,agosto,8,0
+Ásia,5,China Hong Kong,44,Ceará,5,Aérea,1,2019,agosto,8,0
 Ásia,5,Cingapura,47,Ceará,5,Aérea,1,2019,agosto,8,3
 Ásia,5,Filipinas,72,Ceará,5,Aérea,1,2019,agosto,8,2
 Ásia,5,Índia,113,Ceará,5,Aérea,1,2019,agosto,8,5
@@ -3015,7 +3015,7 @@ América do Sul,4,Venezuela,238,Ceará,5,Aérea,1,2019,setembro,9,5
 Ásia,5,Arábia Saudita,9,Ceará,5,Aérea,1,2019,setembro,9,2
 Ásia,5,Bangladesh,18,Ceará,5,Aérea,1,2019,setembro,9,2
 Ásia,5,China,43,Ceará,5,Aérea,1,2019,setembro,9,14
-Ásia,5,China Hong Kong,44,Ceará,5,,1,2019,setembro,9,2
+Ásia,5,China Hong Kong,44,Ceará,5,Aérea,1,2019,setembro,9,2
 Ásia,5,Cingapura,47,Ceará,5,Aérea,1,2019,setembro,9,1
 Ásia,5,Filipinas,72,Ceará,5,Aérea,1,2019,setembro,9,3
 Ásia,5,Índia,113,Ceará,5,Aérea,1,2019,setembro,9,8
@@ -3108,7 +3108,7 @@ América do Sul,4,Venezuela,238,Ceará,5,Aérea,1,2019,outubro,10,2
 Ásia,5,Arábia Saudita,9,Ceará,5,Aérea,1,2019,outubro,10,0
 Ásia,5,Bangladesh,18,Ceará,5,Aérea,1,2019,outubro,10,0
 Ásia,5,China,43,Ceará,5,Aérea,1,2019,outubro,10,1
-Ásia,5,China Hong Kong,44,Ceará,5,,1,2019,outubro,10,3
+Ásia,5,China Hong Kong,44,Ceará,5,Aérea,1,2019,outubro,10,3
 Ásia,5,Cingapura,47,Ceará,5,Aérea,1,2019,outubro,10,2
 Ásia,5,Filipinas,72,Ceará,5,Aérea,1,2019,outubro,10,1
 Ásia,5,Índia,113,Ceará,5,Aérea,1,2019,outubro,10,9
@@ -3201,7 +3201,7 @@ América do Sul,4,Venezuela,238,Ceará,5,Aérea,1,2019,novembro,11,1
 Ásia,5,Arábia Saudita,9,Ceará,5,Aérea,1,2019,novembro,11,1
 Ásia,5,Bangladesh,18,Ceará,5,Aérea,1,2019,novembro,11,0
 Ásia,5,China,43,Ceará,5,Aérea,1,2019,novembro,11,9
-Ásia,5,China Hong Kong,44,Ceará,5,,1,2019,novembro,11,1
+Ásia,5,China Hong Kong,44,Ceará,5,Aérea,1,2019,novembro,11,1
 Ásia,5,Cingapura,47,Ceará,5,Aérea,1,2019,novembro,11,0
 Ásia,5,Filipinas,72,Ceará,5,Aérea,1,2019,novembro,11,5
 Ásia,5,Índia,113,Ceará,5,Aérea,1,2019,novembro,11,7
@@ -3294,7 +3294,7 @@ América do Sul,4,Venezuela,238,Ceará,5,Aérea,1,2019,dezembro,12,5
 Ásia,5,Arábia Saudita,9,Ceará,5,Aérea,1,2019,dezembro,12,1
 Ásia,5,Bangladesh,18,Ceará,5,Aérea,1,2019,dezembro,12,0
 Ásia,5,China,43,Ceará,5,Aérea,1,2019,dezembro,12,12
-Ásia,5,China Hong Kong,44,Ceará,5,,1,2019,dezembro,12,1
+Ásia,5,China Hong Kong,44,Ceará,5,Aérea,1,2019,dezembro,12,1
 Ásia,5,Cingapura,47,Ceará,5,Aérea,1,2019,dezembro,12,1
 Ásia,5,Filipinas,72,Ceará,5,Aérea,1,2019,dezembro,12,2
 Ásia,5,Índia,113,Ceará,5,Aérea,1,2019,dezembro,12,3
@@ -4503,7 +4503,7 @@ América do Sul,4,Venezuela,238,Pernambuco,5,Aérea,1,2019,janeiro,1,7
 Ásia,5,Arábia Saudita,9,Pernambuco,5,Aérea,1,2019,janeiro,1,0
 Ásia,5,Bangladesh,18,Pernambuco,5,Aérea,1,2019,janeiro,1,0
 Ásia,5,China,43,Pernambuco,5,Aérea,1,2019,janeiro,1,2
-Ásia,5,China Hong Kong,44,Pernambuco,5,,1,2019,janeiro,1,0
+Ásia,5,China Hong Kong,44,Pernambuco,5,Aérea,1,2019,janeiro,1,0
 Ásia,5,Cingapura,47,Pernambuco,5,Aérea,1,2019,janeiro,1,0
 Ásia,5,Filipinas,72,Pernambuco,5,Aérea,1,2019,janeiro,1,0
 Ásia,5,Índia,113,Pernambuco,5,Aérea,1,2019,janeiro,1,3
@@ -4596,7 +4596,7 @@ América do Sul,4,Venezuela,238,Pernambuco,5,Aérea,1,2019,fevereiro,2,6
 Ásia,5,Arábia Saudita,9,Pernambuco,5,Aérea,1,2019,fevereiro,2,0
 Ásia,5,Bangladesh,18,Pernambuco,5,Aérea,1,2019,fevereiro,2,0
 Ásia,5,China,43,Pernambuco,5,Aérea,1,2019,fevereiro,2,1
-Ásia,5,China Hong Kong,44,Pernambuco,5,,1,2019,fevereiro,2,0
+Ásia,5,China Hong Kong,44,Pernambuco,5,Aérea,1,2019,fevereiro,2,0
 Ásia,5,Cingapura,47,Pernambuco,5,Aérea,1,2019,fevereiro,2,0
 Ásia,5,Filipinas,72,Pernambuco,5,Aérea,1,2019,fevereiro,2,0
 Ásia,5,Índia,113,Pernambuco,5,Aérea,1,2019,fevereiro,2,1
@@ -4689,7 +4689,7 @@ América do Sul,4,Venezuela,238,Pernambuco,5,Aérea,1,2019,março,3,10
 Ásia,5,Arábia Saudita,9,Pernambuco,5,Aérea,1,2019,março,3,0
 Ásia,5,Bangladesh,18,Pernambuco,5,Aérea,1,2019,março,3,2
 Ásia,5,China,43,Pernambuco,5,Aérea,1,2019,março,3,6
-Ásia,5,China Hong Kong,44,Pernambuco,5,,1,2019,março,3,0
+Ásia,5,China Hong Kong,44,Pernambuco,5,Aérea,1,2019,março,3,0
 Ásia,5,Cingapura,47,Pernambuco,5,Aérea,1,2019,março,3,0
 Ásia,5,Filipinas,72,Pernambuco,5,Aérea,1,2019,março,3,0
 Ásia,5,Índia,113,Pernambuco,5,Aérea,1,2019,março,3,1
@@ -4782,7 +4782,7 @@ América do Sul,4,Venezuela,238,Pernambuco,5,Aérea,1,2019,abril,4,1
 Ásia,5,Arábia Saudita,9,Pernambuco,5,Aérea,1,2019,abril,4,0
 Ásia,5,Bangladesh,18,Pernambuco,5,Aérea,1,2019,abril,4,2
 Ásia,5,China,43,Pernambuco,5,Aérea,1,2019,abril,4,2
-Ásia,5,China Hong Kong,44,Pernambuco,5,,1,2019,abril,4,0
+Ásia,5,China Hong Kong,44,Pernambuco,5,Aérea,1,2019,abril,4,0
 Ásia,5,Cingapura,47,Pernambuco,5,Aérea,1,2019,abril,4,0
 Ásia,5,Filipinas,72,Pernambuco,5,Aérea,1,2019,abril,4,1
 Ásia,5,Índia,113,Pernambuco,5,Aérea,1,2019,abril,4,4
@@ -4875,7 +4875,7 @@ América do Sul,4,Venezuela,238,Pernambuco,5,Aérea,1,2019,maio,5,12
 Ásia,5,Arábia Saudita,9,Pernambuco,5,Aérea,1,2019,maio,5,0
 Ásia,5,Bangladesh,18,Pernambuco,5,Aérea,1,2019,maio,5,0
 Ásia,5,China,43,Pernambuco,5,Aérea,1,2019,maio,5,3
-Ásia,5,China Hong Kong,44,Pernambuco,5,,1,2019,maio,5,0
+Ásia,5,China Hong Kong,44,Pernambuco,5,Aérea,1,2019,maio,5,0
 Ásia,5,Cingapura,47,Pernambuco,5,Aérea,1,2019,maio,5,0
 Ásia,5,Filipinas,72,Pernambuco,5,Aérea,1,2019,maio,5,1
 Ásia,5,Índia,113,Pernambuco,5,Aérea,1,2019,maio,5,0
@@ -4968,7 +4968,7 @@ América do Sul,4,Venezuela,238,Pernambuco,5,Aérea,1,2019,junho,6,6
 Ásia,5,Arábia Saudita,9,Pernambuco,5,Aérea,1,2019,junho,6,1
 Ásia,5,Bangladesh,18,Pernambuco,5,Aérea,1,2019,junho,6,1
 Ásia,5,China,43,Pernambuco,5,Aérea,1,2019,junho,6,0
-Ásia,5,China Hong Kong,44,Pernambuco,5,,1,2019,junho,6,1
+Ásia,5,China Hong Kong,44,Pernambuco,5,Aérea,1,2019,junho,6,1
 Ásia,5,Cingapura,47,Pernambuco,5,Aérea,1,2019,junho,6,0
 Ásia,5,Filipinas,72,Pernambuco,5,Aérea,1,2019,junho,6,2
 Ásia,5,Índia,113,Pernambuco,5,Aérea,1,2019,junho,6,2
@@ -5061,7 +5061,7 @@ América do Sul,4,Venezuela,238,Pernambuco,5,Aérea,1,2019,julho,7,4
 Ásia,5,Arábia Saudita,9,Pernambuco,5,Aérea,1,2019,julho,7,0
 Ásia,5,Bangladesh,18,Pernambuco,5,Aérea,1,2019,julho,7,0
 Ásia,5,China,43,Pernambuco,5,Aérea,1,2019,julho,7,4
-Ásia,5,China Hong Kong,44,Pernambuco,5,,1,2019,julho,7,1
+Ásia,5,China Hong Kong,44,Pernambuco,5,Aérea,1,2019,julho,7,1
 Ásia,5,Cingapura,47,Pernambuco,5,Aérea,1,2019,julho,7,0
 Ásia,5,Filipinas,72,Pernambuco,5,Aérea,1,2019,julho,7,1
 Ásia,5,Índia,113,Pernambuco,5,Aérea,1,2019,julho,7,3
@@ -5154,7 +5154,7 @@ América do Sul,4,Venezuela,238,Pernambuco,5,Aérea,1,2019,agosto,8,7
 Ásia,5,Arábia Saudita,9,Pernambuco,5,Aérea,1,2019,agosto,8,0
 Ásia,5,Bangladesh,18,Pernambuco,5,Aérea,1,2019,agosto,8,0
 Ásia,5,China,43,Pernambuco,5,Aérea,1,2019,agosto,8,3
-Ásia,5,China Hong Kong,44,Pernambuco,5,,1,2019,agosto,8,0
+Ásia,5,China Hong Kong,44,Pernambuco,5,Aérea,1,2019,agosto,8,0
 Ásia,5,Cingapura,47,Pernambuco,5,Aérea,1,2019,agosto,8,1
 Ásia,5,Filipinas,72,Pernambuco,5,Aérea,1,2019,agosto,8,0
 Ásia,5,Índia,113,Pernambuco,5,Aérea,1,2019,agosto,8,3
@@ -5247,7 +5247,7 @@ América do Sul,4,Venezuela,238,Pernambuco,5,Aérea,1,2019,setembro,9,7
 Ásia,5,Arábia Saudita,9,Pernambuco,5,Aérea,1,2019,setembro,9,1
 Ásia,5,Bangladesh,18,Pernambuco,5,Aérea,1,2019,setembro,9,0
 Ásia,5,China,43,Pernambuco,5,Aérea,1,2019,setembro,9,1
-Ásia,5,China Hong Kong,44,Pernambuco,5,,1,2019,setembro,9,0
+Ásia,5,China Hong Kong,44,Pernambuco,5,Aérea,1,2019,setembro,9,0
 Ásia,5,Cingapura,47,Pernambuco,5,Aérea,1,2019,setembro,9,0
 Ásia,5,Filipinas,72,Pernambuco,5,Aérea,1,2019,setembro,9,1
 Ásia,5,Índia,113,Pernambuco,5,Aérea,1,2019,setembro,9,5
@@ -5340,7 +5340,7 @@ América do Sul,4,Venezuela,238,Pernambuco,5,Aérea,1,2019,outubro,10,30
 Ásia,5,Arábia Saudita,9,Pernambuco,5,Aérea,1,2019,outubro,10,0
 Ásia,5,Bangladesh,18,Pernambuco,5,Aérea,1,2019,outubro,10,0
 Ásia,5,China,43,Pernambuco,5,Aérea,1,2019,outubro,10,1
-Ásia,5,China Hong Kong,44,Pernambuco,5,,1,2019,outubro,10,1
+Ásia,5,China Hong Kong,44,Pernambuco,5,Aérea,1,2019,outubro,10,1
 Ásia,5,Cingapura,47,Pernambuco,5,Aérea,1,2019,outubro,10,0
 Ásia,5,Filipinas,72,Pernambuco,5,Aérea,1,2019,outubro,10,0
 Ásia,5,Índia,113,Pernambuco,5,Aérea,1,2019,outubro,10,0
@@ -5433,7 +5433,7 @@ América do Sul,4,Venezuela,238,Pernambuco,5,Aérea,1,2019,novembro,11,9
 Ásia,5,Arábia Saudita,9,Pernambuco,5,Aérea,1,2019,novembro,11,0
 Ásia,5,Bangladesh,18,Pernambuco,5,Aérea,1,2019,novembro,11,0
 Ásia,5,China,43,Pernambuco,5,Aérea,1,2019,novembro,11,7
-Ásia,5,China Hong Kong,44,Pernambuco,5,,1,2019,novembro,11,0
+Ásia,5,China Hong Kong,44,Pernambuco,5,Aérea,1,2019,novembro,11,0
 Ásia,5,Cingapura,47,Pernambuco,5,Aérea,1,2019,novembro,11,1
 Ásia,5,Filipinas,72,Pernambuco,5,Aérea,1,2019,novembro,11,5
 Ásia,5,Índia,113,Pernambuco,5,Aérea,1,2019,novembro,11,2
@@ -5526,7 +5526,7 @@ América do Sul,4,Venezuela,238,Pernambuco,5,Aérea,1,2019,dezembro,12,7
 Ásia,5,Arábia Saudita,9,Pernambuco,5,Aérea,1,2019,dezembro,12,2
 Ásia,5,Bangladesh,18,Pernambuco,5,Aérea,1,2019,dezembro,12,0
 Ásia,5,China,43,Pernambuco,5,Aérea,1,2019,dezembro,12,6
-Ásia,5,China Hong Kong,44,Pernambuco,5,,1,2019,dezembro,12,0
+Ásia,5,China Hong Kong,44,Pernambuco,5,Aérea,1,2019,dezembro,12,0
 Ásia,5,Cingapura,47,Pernambuco,5,Aérea,1,2019,dezembro,12,0
 Ásia,5,Filipinas,72,Pernambuco,5,Aérea,1,2019,dezembro,12,2
 Ásia,5,Índia,113,Pernambuco,5,Aérea,1,2019,dezembro,12,1
@@ -6735,7 +6735,7 @@ América do Sul,4,Venezuela,238,Rio Grande do Norte,5,Aérea,1,2019,janeiro,1,0
 Ásia,5,Arábia Saudita,9,Rio Grande do Norte,5,Aérea,1,2019,janeiro,1,0
 Ásia,5,Bangladesh,18,Rio Grande do Norte,5,Aérea,1,2019,janeiro,1,0
 Ásia,5,China,43,Rio Grande do Norte,5,Aérea,1,2019,janeiro,1,0
-Ásia,5,China Hong Kong,44,Rio Grande do Norte,5,,1,2019,janeiro,1,0
+Ásia,5,China Hong Kong,44,Rio Grande do Norte,5,Aérea,1,2019,janeiro,1,0
 Ásia,5,Cingapura,47,Rio Grande do Norte,5,Aérea,1,2019,janeiro,1,0
 Ásia,5,Filipinas,72,Rio Grande do Norte,5,Aérea,1,2019,janeiro,1,0
 Ásia,5,Índia,113,Rio Grande do Norte,5,Aérea,1,2019,janeiro,1,0
@@ -6828,7 +6828,7 @@ América do Sul,4,Venezuela,238,Rio Grande do Norte,5,Aérea,1,2019,fevereiro,2,
 Ásia,5,Arábia Saudita,9,Rio Grande do Norte,5,Aérea,1,2019,fevereiro,2,0
 Ásia,5,Bangladesh,18,Rio Grande do Norte,5,Aérea,1,2019,fevereiro,2,0
 Ásia,5,China,43,Rio Grande do Norte,5,Aérea,1,2019,fevereiro,2,0
-Ásia,5,China Hong Kong,44,Rio Grande do Norte,5,,1,2019,fevereiro,2,0
+Ásia,5,China Hong Kong,44,Rio Grande do Norte,5,Aérea,1,2019,fevereiro,2,0
 Ásia,5,Cingapura,47,Rio Grande do Norte,5,Aérea,1,2019,fevereiro,2,0
 Ásia,5,Filipinas,72,Rio Grande do Norte,5,Aérea,1,2019,fevereiro,2,0
 Ásia,5,Índia,113,Rio Grande do Norte,5,Aérea,1,2019,fevereiro,2,0
@@ -6921,7 +6921,7 @@ América do Sul,4,Venezuela,238,Rio Grande do Norte,5,Aérea,1,2019,março,3,1
 Ásia,5,Arábia Saudita,9,Rio Grande do Norte,5,Aérea,1,2019,março,3,0
 Ásia,5,Bangladesh,18,Rio Grande do Norte,5,Aérea,1,2019,março,3,0
 Ásia,5,China,43,Rio Grande do Norte,5,Aérea,1,2019,março,3,0
-Ásia,5,China Hong Kong,44,Rio Grande do Norte,5,,1,2019,março,3,0
+Ásia,5,China Hong Kong,44,Rio Grande do Norte,5,Aérea,1,2019,março,3,0
 Ásia,5,Cingapura,47,Rio Grande do Norte,5,Aérea,1,2019,março,3,0
 Ásia,5,Filipinas,72,Rio Grande do Norte,5,Aérea,1,2019,março,3,0
 Ásia,5,Índia,113,Rio Grande do Norte,5,Aérea,1,2019,março,3,1
@@ -7014,7 +7014,7 @@ América do Sul,4,Venezuela,238,Rio Grande do Norte,5,Aérea,1,2019,abril,4,0
 Ásia,5,Arábia Saudita,9,Rio Grande do Norte,5,Aérea,1,2019,abril,4,0
 Ásia,5,Bangladesh,18,Rio Grande do Norte,5,Aérea,1,2019,abril,4,0
 Ásia,5,China,43,Rio Grande do Norte,5,Aérea,1,2019,abril,4,1
-Ásia,5,China Hong Kong,44,Rio Grande do Norte,5,,1,2019,abril,4,0
+Ásia,5,China Hong Kong,44,Rio Grande do Norte,5,Aérea,1,2019,abril,4,0
 Ásia,5,Cingapura,47,Rio Grande do Norte,5,Aérea,1,2019,abril,4,0
 Ásia,5,Filipinas,72,Rio Grande do Norte,5,Aérea,1,2019,abril,4,0
 Ásia,5,Índia,113,Rio Grande do Norte,5,Aérea,1,2019,abril,4,0
@@ -7107,7 +7107,7 @@ América do Sul,4,Venezuela,238,Rio Grande do Norte,5,Aérea,1,2019,maio,5,1
 Ásia,5,Arábia Saudita,9,Rio Grande do Norte,5,Aérea,1,2019,maio,5,0
 Ásia,5,Bangladesh,18,Rio Grande do Norte,5,Aérea,1,2019,maio,5,0
 Ásia,5,China,43,Rio Grande do Norte,5,Aérea,1,2019,maio,5,1
-Ásia,5,China Hong Kong,44,Rio Grande do Norte,5,,1,2019,maio,5,0
+Ásia,5,China Hong Kong,44,Rio Grande do Norte,5,Aérea,1,2019,maio,5,0
 Ásia,5,Cingapura,47,Rio Grande do Norte,5,Aérea,1,2019,maio,5,0
 Ásia,5,Filipinas,72,Rio Grande do Norte,5,Aérea,1,2019,maio,5,0
 Ásia,5,Índia,113,Rio Grande do Norte,5,Aérea,1,2019,maio,5,0
@@ -7200,7 +7200,7 @@ América do Sul,4,Venezuela,238,Rio Grande do Norte,5,Aérea,1,2019,junho,6,1
 Ásia,5,Arábia Saudita,9,Rio Grande do Norte,5,Aérea,1,2019,junho,6,0
 Ásia,5,Bangladesh,18,Rio Grande do Norte,5,Aérea,1,2019,junho,6,0
 Ásia,5,China,43,Rio Grande do Norte,5,Aérea,1,2019,junho,6,0
-Ásia,5,China Hong Kong,44,Rio Grande do Norte,5,,1,2019,junho,6,0
+Ásia,5,China Hong Kong,44,Rio Grande do Norte,5,Aérea,1,2019,junho,6,0
 Ásia,5,Cingapura,47,Rio Grande do Norte,5,Aérea,1,2019,junho,6,0
 Ásia,5,Filipinas,72,Rio Grande do Norte,5,Aérea,1,2019,junho,6,0
 Ásia,5,Índia,113,Rio Grande do Norte,5,Aérea,1,2019,junho,6,0
@@ -7293,7 +7293,7 @@ América do Sul,4,Venezuela,238,Rio Grande do Norte,5,Aérea,1,2019,julho,7,0
 Ásia,5,Arábia Saudita,9,Rio Grande do Norte,5,Aérea,1,2019,julho,7,0
 Ásia,5,Bangladesh,18,Rio Grande do Norte,5,Aérea,1,2019,julho,7,0
 Ásia,5,China,43,Rio Grande do Norte,5,Aérea,1,2019,julho,7,0
-Ásia,5,China Hong Kong,44,Rio Grande do Norte,5,,1,2019,julho,7,0
+Ásia,5,China Hong Kong,44,Rio Grande do Norte,5,Aérea,1,2019,julho,7,0
 Ásia,5,Cingapura,47,Rio Grande do Norte,5,Aérea,1,2019,julho,7,0
 Ásia,5,Filipinas,72,Rio Grande do Norte,5,Aérea,1,2019,julho,7,0
 Ásia,5,Índia,113,Rio Grande do Norte,5,Aérea,1,2019,julho,7,0
@@ -7386,7 +7386,7 @@ América do Sul,4,Venezuela,238,Rio Grande do Norte,5,Aérea,1,2019,agosto,8,0
 Ásia,5,Arábia Saudita,9,Rio Grande do Norte,5,Aérea,1,2019,agosto,8,0
 Ásia,5,Bangladesh,18,Rio Grande do Norte,5,Aérea,1,2019,agosto,8,0
 Ásia,5,China,43,Rio Grande do Norte,5,Aérea,1,2019,agosto,8,1
-Ásia,5,China Hong Kong,44,Rio Grande do Norte,5,,1,2019,agosto,8,0
+Ásia,5,China Hong Kong,44,Rio Grande do Norte,5,Aérea,1,2019,agosto,8,0
 Ásia,5,Cingapura,47,Rio Grande do Norte,5,Aérea,1,2019,agosto,8,0
 Ásia,5,Filipinas,72,Rio Grande do Norte,5,Aérea,1,2019,agosto,8,0
 Ásia,5,Índia,113,Rio Grande do Norte,5,Aérea,1,2019,agosto,8,0
@@ -7479,7 +7479,7 @@ América do Sul,4,Venezuela,238,Rio Grande do Norte,5,Aérea,1,2019,setembro,9,0
 Ásia,5,Arábia Saudita,9,Rio Grande do Norte,5,Aérea,1,2019,setembro,9,0
 Ásia,5,Bangladesh,18,Rio Grande do Norte,5,Aérea,1,2019,setembro,9,0
 Ásia,5,China,43,Rio Grande do Norte,5,Aérea,1,2019,setembro,9,0
-Ásia,5,China Hong Kong,44,Rio Grande do Norte,5,,1,2019,setembro,9,0
+Ásia,5,China Hong Kong,44,Rio Grande do Norte,5,Aérea,1,2019,setembro,9,0
 Ásia,5,Cingapura,47,Rio Grande do Norte,5,Aérea,1,2019,setembro,9,0
 Ásia,5,Filipinas,72,Rio Grande do Norte,5,Aérea,1,2019,setembro,9,0
 Ásia,5,Índia,113,Rio Grande do Norte,5,Aérea,1,2019,setembro,9,0
@@ -7572,7 +7572,7 @@ América do Sul,4,Venezuela,238,Rio Grande do Norte,5,Aérea,1,2019,outubro,10,1
 Ásia,5,Arábia Saudita,9,Rio Grande do Norte,5,Aérea,1,2019,outubro,10,0
 Ásia,5,Bangladesh,18,Rio Grande do Norte,5,Aérea,1,2019,outubro,10,0
 Ásia,5,China,43,Rio Grande do Norte,5,Aérea,1,2019,outubro,10,0
-Ásia,5,China Hong Kong,44,Rio Grande do Norte,5,,1,2019,outubro,10,0
+Ásia,5,China Hong Kong,44,Rio Grande do Norte,5,Aérea,1,2019,outubro,10,0
 Ásia,5,Cingapura,47,Rio Grande do Norte,5,Aérea,1,2019,outubro,10,0
 Ásia,5,Filipinas,72,Rio Grande do Norte,5,Aérea,1,2019,outubro,10,0
 Ásia,5,Índia,113,Rio Grande do Norte,5,Aérea,1,2019,outubro,10,0
@@ -7665,7 +7665,7 @@ América do Sul,4,Venezuela,238,Rio Grande do Norte,5,Aérea,1,2019,novembro,11,
 Ásia,5,Arábia Saudita,9,Rio Grande do Norte,5,Aérea,1,2019,novembro,11,0
 Ásia,5,Bangladesh,18,Rio Grande do Norte,5,Aérea,1,2019,novembro,11,0
 Ásia,5,China,43,Rio Grande do Norte,5,Aérea,1,2019,novembro,11,1
-Ásia,5,China Hong Kong,44,Rio Grande do Norte,5,,1,2019,novembro,11,0
+Ásia,5,China Hong Kong,44,Rio Grande do Norte,5,Aérea,1,2019,novembro,11,0
 Ásia,5,Cingapura,47,Rio Grande do Norte,5,Aérea,1,2019,novembro,11,0
 Ásia,5,Filipinas,72,Rio Grande do Norte,5,Aérea,1,2019,novembro,11,0
 Ásia,5,Índia,113,Rio Grande do Norte,5,Aérea,1,2019,novembro,11,0
@@ -7758,7 +7758,7 @@ América do Sul,4,Venezuela,238,Rio Grande do Norte,5,Aérea,1,2019,dezembro,12,
 Ásia,5,Arábia Saudita,9,Rio Grande do Norte,5,Aérea,1,2019,dezembro,12,0
 Ásia,5,Bangladesh,18,Rio Grande do Norte,5,Aérea,1,2019,dezembro,12,0
 Ásia,5,China,43,Rio Grande do Norte,5,Aérea,1,2019,dezembro,12,0
-Ásia,5,China Hong Kong,44,Rio Grande do Norte,5,,1,2019,dezembro,12,0
+Ásia,5,China Hong Kong,44,Rio Grande do Norte,5,Aérea,1,2019,dezembro,12,0
 Ásia,5,Cingapura,47,Rio Grande do Norte,5,Aérea,1,2019,dezembro,12,0
 Ásia,5,Filipinas,72,Rio Grande do Norte,5,Aérea,1,2019,dezembro,12,0
 Ásia,5,Índia,113,Rio Grande do Norte,5,Aérea,1,2019,dezembro,12,0
